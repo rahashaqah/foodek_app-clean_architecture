@@ -1,0 +1,155 @@
+// DO NOT EDIT. This is code generated via package:easy_localization/generate.dart
+
+// ignore_for_file: constant_identifier_names
+// dart run easy_localization:generate -S "assets/translations" -O "lib/translations"
+
+abstract class LocaleKeys {
+  static const Continue = 'Continue';
+  static const Welcome_To_Sahlah = 'Welcome To Sahlah';
+  static const Enjoy_At_Fast_and_Smooth_Food_Delivery_At_Your_Doorstep =
+      'Enjoy At Fast and Smooth Food Delivery At Your Doorstep';
+  static const Skip = 'Skip';
+  static const Get_Delivery_On_Time = 'Get Delivery On Time';
+  static const Order_Your_Favorite_Food_Within_The_Palm_Of_Your_Hand_And_the_Zone_Of_Your_Comfort =
+      'Order Your Favorite Food Within The Palm Of Your Hand And the Zone Of Your Comfort';
+  static const Choose_Your_Food = 'Choose Your Food';
+  static const login = 'login';
+  static const email = 'email';
+  static const password = 'password';
+  static const remember_me = 'remember_me';
+  static const don_t_have_an_account = 'don_t_have_an_account';
+  static const sign_up = 'sign_up';
+  static const forgot_password = 'forgot_password';
+  static const log_in = 'log_in';
+  static const or = 'or';
+  static const continue_with_google = 'continue_with_google';
+  static const continue_with_facebook = 'continue_with_facebook';
+  static const continue_with_apple = 'continue_with_apple';
+  static const already_have_an_account = 'already_have_an_account';
+  static const full_name = 'full_name';
+  static const birth_of_date = 'birth_of_date';
+  static const phone_number = 'phone_number';
+  static const set_password = 'set_password';
+  static const register = 'register';
+  static const back_to_login_page = 'back_to_login_page';
+  static const rest_password = 'rest_password';
+  static const enter_your_e_mail_or_phone_and_we_ll_send_you_a_link_to_get_back_into_your_account =
+      'enter_your_e_mail_or_phone_and_we_ll_send_you_a_link_to_get_back_into_your_account';
+  static const send = 'send';
+  static const a_4_digit_code_has_been_sent_to_your_email_please_enter_it_to_verify =
+      'a_4_digit_code_has_been_sent_to_your_email_please_enter_it_to_verify';
+  static const verify = 'verify';
+  static const want_to_try_with_my_current_password =
+      'want_to_try_with_my_current_password';
+  static const new_password = 'new_password';
+  static const confirm_new_password = 'confirm_new_password';
+  static const update_password = 'update_password';
+  static const congratulations = 'congratulations';
+  static const password_reset_succesfuly = 'password_reset_succesfuly';
+  static const current_location = 'current_location';
+  static const search_menu_restaurant_or_etc = 'search_menu_restaurant_or_etc';
+  static const all = 'all';
+  static const burger = 'burger';
+  static const pizza = 'pizza';
+  static const sandwich = 'sandwich';
+  static const experience_our_delicious_new_dish =
+      'experience_our_delicious_new_dish';
+  static const top_rated = 'top_rated';
+  static const chicken_burger = 'chicken_burger';
+  static const cheese_burger = 'cheese_burger';
+  static const recommend = 'recommend';
+  static const view_all = 'view_all';
+  static const home = 'home';
+  static const favorites = 'favorites';
+  static const track = 'track';
+  static const profile = 'profile';
+  static const pepperoni_pizza = 'pepperoni_pizza';
+  static const pizza_cheese = 'pizza_cheese';
+  static const order_now = 'order_now';
+  static const peppy_paneer = 'peppy_paneer';
+  static const mexican_green_wave = 'mexican_green_wave';
+  static const notifications = 'notifications';
+  static const unread = 'unread';
+  static const read = 'read';
+  static const are_you_sure_you_want_to_remove_it_from_favorites =
+      'are_you_sure_you_want_to_remove_it_from_favorites';
+  static const yes = 'yes';
+  static const cheeseburger_wendys_burger = 'cheeseburger_wendys_burger';
+  static const spicy = 'spicy';
+  static const hot = 'hot';
+  static const mild = 'mild';
+  static const quantity = 'quantity';
+  static const add_to_cart = 'add_to_cart';
+  static const filter = 'filter';
+  static const min = 'min';
+  static const max = 'max';
+  static const fast_food = 'fast_food';
+  static const sea_food = 'sea_food';
+  static const dessert = 'dessert';
+  static const km = 'km';
+  static const tuna_tartare = 'tuna_tartare';
+  static const spicy_crab_cakes = 'spicy_crab_cakes';
+  static const seafood_paella = 'seafood_paella';
+  static const clam_chowder = 'clam_chowder';
+  static const miso_glazed_cod = 'miso_glazed_cod';
+  static const lobster_thermidor = 'lobster_thermidor';
+  static const burger_factory_ltd = 'burger_factory_ltd';
+  static const onion_pizza = 'onion_pizza';
+  static const pizza_palace = 'pizza_palace';
+  static const spicy_shawarma = 'spicy_shawarma';
+  static const cart = 'cart';
+  static const history = 'history';
+  static const sub_total = 'sub_total';
+  static const delivery_charge = 'delivery_charge';
+  static const discount = 'discount';
+  static const total = 'total';
+  static const place_my_order = 'place_my_order';
+  static const load_more = 'load_more';
+  static const reorder = 'reorder';
+  static const cart_empty = 'cart_empty';
+  static const history_empty = 'history_empty';
+  static const find_your_location = 'find_your_location';
+  static const your_location = 'your_location';
+  static const set_location = 'set_location';
+  static const checkout = 'checkout';
+  static const pay_with = 'pay_with';
+  static const change = 'change';
+  static const promo_code = 'promo_code';
+  static const enter_your_promo = 'enter_your_promo';
+  static const add = 'add';
+  static const cash = 'cash';
+  static const card = 'card';
+  static const card_type = 'card_type';
+  static const name = 'name';
+  static const card_number = 'card_number';
+  static const expiry = 'expiry';
+  static const cvc = 'cvc';
+  static const pay_for_the_order = 'pay_for_the_order';
+  static const your_order_done_successfully = 'your_order_done_successfully';
+  static const track_your_order = 'track_your_order';
+  static const all_details = 'all_details';
+  static const on_the_way = 'on_the_way';
+  static const order_placed = 'order_placed';
+  static const your_delivery_hero = 'your_delivery_hero';
+  static const chat = 'chat';
+  static const write_your_message = 'write_your_message';
+  static const order_details = 'order_details';
+  static const order_id = 'order_id';
+  static const order_received = 'order_received';
+  static const cooking_your_order = 'cooking_your_order';
+  static const courier_is_picking_up_order = 'courier_is_picking_up_order';
+  static const order_delivered = 'order_delivered';
+  static const live_track = 'live_track';
+  static const my_account = 'my_account';
+  static const personal_information = 'personal_information';
+  static const language = 'language';
+  static const privacy_policy = 'privacy_policy';
+  static const setting = 'setting';
+  static const push_notifications = 'push_notifications';
+  static const promotional_notifications = 'promotional_notifications';
+  static const more = 'more';
+  static const help_center = 'help_center';
+  static const log_out = 'log_out';
+  static const address = 'address';
+  static const update = 'update';
+}
